@@ -187,7 +187,7 @@ hx.igstory(username)
 const hx = require('hxz-api');
 const username = 'yabegitulahaha'
 
-hx.stalk(username)
+hx.igstalk(username)
     .then(result => {
      console.log(result)
 });
