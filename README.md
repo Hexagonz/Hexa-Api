@@ -1,29 +1,29 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/c4/c6/fb/c4c6fb0469f227a4d297c68059dc950d.jpg" alt="SELF-HX" width="170" />
+<img src="https://i.pinimg.com/originals/c4/c6/fb/c4c6fb0469f227a4d297c68059dc950d.jpg" alt="Hexa" width="170" />
 
 ## HEXA-API
 
 </div>
 
 <p align="center">
-<a href="##"><img title="hexa-api" src="https://img.shields.io/static/v1?label=package&message=hx-api&color=red"></a>
+<a href="##"><img title="hexa-api" src="https://img.shields.io/static/v1?label=package&message=hxz-api&color=red"></a>
 </p>
 <p align="center">
   <a href="https://github.com/Hexagonz"><img title="Author" src="https://img.shields.io/badge/Author-Hexagonz-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=hx-api&color=pink"></a>
+<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=hxz-api&color=pink"></a>
 </p>
 
 ## ```INSTALL And UNINSTALL```
-> npm install hx-api
+> npm install hxz-api
 >  
-> npm uninstall hx-api
+> npm uninstall hxz-api
 
 
 ## ```Otakudesu```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const judul = 'kaifuku'
 
 hx.otakudesu(judul)
@@ -33,7 +33,7 @@ hx.otakudesu(judul)
 ```
 ## ```Covid```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 
 hx.covid()
     .then(result => {
@@ -43,7 +43,7 @@ hx.covid()
 
 ## ```Ongoing```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 
 hx.ongoing()
     .then(result => {
@@ -53,7 +53,7 @@ hx.ongoing()
 
 ## ```Komiku```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const judul = 'kanojo mo kanojo'
 
 hx.komiku(judul)
@@ -64,7 +64,7 @@ hx.komiku(judul)
 
 ## ```Tebak Gambar```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 
 hx.tebakgambar()
     .then(result => {
@@ -74,7 +74,7 @@ hx.tebakgambar()
 
 ## ```Surah```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const no = '1'
 
 hx.surah(no)
@@ -85,7 +85,7 @@ hx.surah(no)
 
 ## ```Sholat```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const no = '1'
 
 hx.sholat(no)
@@ -96,7 +96,7 @@ hx.sholat(no)
 
 ## ```Lirik```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const judul = 'black catcher'
 
 hx.lirik(judul)
@@ -107,7 +107,7 @@ hx.lirik(judul)
 
 ## ```Chara```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const name = 'nino'
 
 hx.chara(name)
@@ -118,7 +118,7 @@ hx.chara(name)
 
 ## ```Wattpad```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const judul = 'love'
 
 hx.wattpad(judul)
@@ -129,7 +129,7 @@ hx.wattpad(judul)
 
 ## ```Play Store```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const judul = 'game 8 bit'
 
 hx.playstore(judul)
@@ -140,7 +140,7 @@ hx.playstore(judul)
 
 ## ```Link Wa```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const judul = 'Editod bekentod'
 
 hx.linkwa(judul)
@@ -151,7 +151,7 @@ hx.linkwa(judul)
 
 ## ```Pinterest```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const judul = 'nakano nino'
 
 hx.pinterest(judul)
@@ -162,7 +162,7 @@ hx.pinterest(judul)
 
 ## ```IG Downloader```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const link = 'https://www.instagram.com/p/CQpUpGvAhWq/?utm_source=ig_web_copy_link'
 
 hx.igdl(link)
@@ -174,7 +174,7 @@ hx.igdl(link)
 
 ## ```IG Story```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const username = 'yabegitulahaha'
 
 hx.igstory(username)
@@ -184,7 +184,7 @@ hx.igstory(username)
 ```
 ## ```IG Stalk```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const username = 'yabegitulahaha'
 
 hx.stalk(username)
@@ -195,7 +195,7 @@ hx.stalk(username)
 
 ## ```Twitter Downloader```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const link = 'https://twitter.com/PassengersMovie/status/821025484150423557'
 
 hx.twitter(link)
@@ -206,7 +206,7 @@ hx.twitter(link)
 
 ## ```Facebook Downloader```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const link = 'https://fb.watch/6vQOvEENLW/'
 
 hx.fbdown(link)
@@ -217,7 +217,7 @@ hx.fbdown(link)
 
 ## ```Youtube Downloader```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const link = 'https://youtu.be/5C8yvJUVB-0'
 
 hx.youtube(link)
@@ -228,7 +228,7 @@ hx.youtube(link)
 
 ## ```Tiktok Downloader```
 ``` 
-const hx = require('hx-api');
+const hx = require('hxz-api');
 const link = 'https://www.tiktok.com/@daniajaa7/video/6980287183517125890?sender_device=pc&sender_web_id=6978811994732938753&is_from_webapp=v1&is_copy_url=0'
 
 hx.ttdownloader(link)
