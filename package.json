@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hexagonz"
+    "url": "git+https://github.com/Hexagonz/Hexa-Api.git"
   },
   "keywords": [
     "YNTKTS"
